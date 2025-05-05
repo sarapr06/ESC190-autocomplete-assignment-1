@@ -1,7 +1,7 @@
 # ESC190-autocomplete-assignment-1
 To write a fast implementation of the autocomplete functionality. Credits go to ESC180, instructor Michael Guerzhoy, and functions not described here are pre-written by Michael Guerzhoy. 
 
-Txt files are provided by Michael Guerzhoy, for testing, 
+Txt files are provided by Michael Guerzhoy, for testing, which was done in main.c, header is autocomplete.h, and functions are written in autocomplete.c.
 
 # Assignment Description
 In this project, you will write a fast implementation of the autocomplete functionality. You will work with files that contain a large number of terms, along with the importance weight associated with those terms.
